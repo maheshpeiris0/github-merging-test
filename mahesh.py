@@ -8,6 +8,11 @@ def count(num):
     count = 0
     while num > 0:
 
-        num = num // 30
-        count += 1
+        num = num // 50
+        count += 100
     return count
+
+
+
+
+
